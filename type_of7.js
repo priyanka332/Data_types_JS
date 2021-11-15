@@ -1,0 +1,1 @@
+console.log(typeof { name: "John", age: 18 }); // Output: "object"
